@@ -15,8 +15,8 @@ It fully integrates with krita-ai-diffusion, enabling one-click prompt transfer 
 🖥️ Dockable UI panel integrated inside Krita
 🔗 Integration with krita-ai-diffusion
 
-This plugin integrates directly with
-👉 Acly/krita-ai-diffusion
+This plugin integrates directly with 
+👉 Acly/krita-ai-diffusion https://github.com/Acly/krita-ai-diffusion
 
 Generate prompts using a local LLM → click Send to AI Plugin → the text is instantly inserted into the Stable Diffusion prompt input.
 
@@ -96,8 +96,7 @@ Krita × Ollama Prompt Generator 是由吾禾設計開發的本地 LLM 提示詞
 🔗 與 krita-ai-diffusion 整合
 
 外掛可直接與
-👉 Acly/krita-ai-diffusion（Stable Diffusion 外掛）
-連動。
+👉 Acly/krita-ai-diffusion（Stable Diffusion 外掛） https://github.com/Acly/krita-ai-diffusion 連動。
 
 按下：
 Send English to AI Plugin
@@ -142,13 +141,6 @@ pykrita/
       ├── icons/
       └── README.md
 
-❤️ 關於吾禾設計
-吾禾設計專注於：
-AI × 建築
-AI × 室內設計
-設計師的 AI 工具落地應用
-目標是打造每位設計師真正用得上的 AI 工具。
-🤝 參與開發
-歡迎提交 Issues、Pull Requests。
-📜 授權
-MIT 授權
+❤️ 吾禾設計專注於：AI × 建築  AI × 室內設計設計師的 AI 工具落地應用目標是打造每位設計師真正用得上的 AI 工具。
+🤝 參與開發 歡迎提交 Issues、Pull Requests。
+📜 授權  MIT 授權
