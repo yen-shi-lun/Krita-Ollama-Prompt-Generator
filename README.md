@@ -1,6 +1,6 @@
 Wuhe Design – Krita × Ollama Prompt Generator
 Local LLM Prompt Generator for Krita (Gemma / Ollama / AI Diffusion Integration)
-🎨 Overview｜插件介紹
+Overview｜插件介紹
 
 English
 The Krita × Ollama Prompt Generator by Wuhe Design is a local-LLM powered plugin that allows artists and designers to generate, refine, translate, and send prompts directly inside Krita — without relying on cloud APIs.
