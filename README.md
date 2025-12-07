@@ -126,8 +126,8 @@ Krita → Tools → Python 外掛管理
 勾選：Ollama Prompt Generator
 
 4. 重啟 Krita
-🖼️ 使用畫面
-（你可日後補上）
+🖼️ <img width="542" height="394" alt="螢幕擷取畫面 2025-12-07 215234" src="https://github.com/user-attachments/assets/f1f15c34-edb8-4431-a2f3-a82e69c546d7" />
+
 
 ⚙️ 系統需求
 Krita 5.2+
